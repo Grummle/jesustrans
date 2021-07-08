@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Testing"
 permalink: /test
-theme: jekyll-theme-slate
 ---
 Hi Newman?
 413
