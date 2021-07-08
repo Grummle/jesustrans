@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Testing"
-permalink: /test/
+permalink: /test
 ---
 Hi Newman?
-412
+413
