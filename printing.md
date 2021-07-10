@@ -6,7 +6,7 @@ title: "Printing Info"
 The latest files/stl's for this will always start here. They may or may not make it to the other locations where they are available.
 
 ## Links
-- Files on Github
+- [Files on Github](https://github.com/Grummle/jesustrans/tree/main/STL)
 - Files on Thingiverse
 - Files on MyMiniFactory (if you are inclined to pay for them)
 
