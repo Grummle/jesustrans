@@ -35,4 +35,4 @@ Instructions have been provided as a series of videos. Recommended desupport/ass
 9. [Shoulder Pads](https://youtu.be/-tpT5SAVCio)
 10. [Body](https://youtu.be/mx-L7SCjBHo) 
 11. [Top Hat](https://youtu.be/Sw8hfXGtbzc)
-12. Final Assembly
+12. [Final Assembly](https://youtu.be/FUIIY4x8DfQ)
