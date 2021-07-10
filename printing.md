@@ -36,6 +36,8 @@ The body parts are printed vertically because finish is better with no flat spot
 #### So. much. support material
 Some of the parts are odd shapes and to be printed in an orientation that provides the best quality for the visible portions they use "support everywhere". If you think of a way around this let me know.
 #### Below are screen shots from my PrusaSlicer project files so that you can compare your orientation of parts.
+![image](https://user-images.githubusercontent.com/407186/125176988-e56a5c00-e19d-11eb-9d21-48b8c8b416b6.png)
+![image](https://user-images.githubusercontent.com/407186/125176997-003cd080-e19e-11eb-84f0-9597df14f7ac.png)
 
 
 
