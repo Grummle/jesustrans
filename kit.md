@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: jmcdefault
 title: "Kit Information"
 permalink: /kit/
 ---
