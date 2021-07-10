@@ -18,7 +18,7 @@ The latest files/stl's for this will always start here. They may or may not make
 - 8  x [Magnets 1/4x1/16x1/8 ](https://totalelement.com/products/1-16-x-1-8-inch-neodymium-rare-earth-cylinder-magnets-n48-250-pack)
 
 ## Recomended Tools
-- Pokey, Proddy Tool or Pick 
+- Pokey, Proddy Tool or Pick [Example](https://www.amazon.com/Channellock-HP-4A-Coated-Acetate-Handle/dp/B00RMR1X82/ref=sr_1_15?dchild=1&keywords=pick&qid=1625950777&sr=8-15)
 - Side Cutters
 - 1.5mm Allen Driver/Wrench
 - Needle Nose Pliers
