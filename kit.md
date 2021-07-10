@@ -19,7 +19,7 @@ title: "Kit Information"
 - Printed Parts with support material attached
 
 ## Instructions
-Instrutions have been provided as a series of videos. Recommended desupport/assebmly order is below.
+Instructions have been provided as a series of videos. Recommended desupport/assebmly order is below.
 ### Removing Support Material
 1. [Leg Armor](https://youtu.be/ZiBdxhBW7Dg)
 2. [Guns](https://youtu.be/oZ0Lt4LnRtQ)
