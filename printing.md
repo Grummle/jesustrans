@@ -3,3 +3,26 @@ layout: jmcdefault
 title: "Printing Info"
 ---
 # Printing Information
+The latest files/stl's for this will always start here. They may or may not make it to the other locations where they are available.
+
+## Links
+- Files on Github
+- Files on Thingiverse
+- Files on MyMiniFactory (if you are inclined to pay for them)
+
+## File Layout
+#### Versioning
+Files on Github will be in folders designating the version of the model. Example 1.0, 1.1, etc. Files starting with the same number should be interoperable with files also starting with the same number. Example 1.0 files will work with 1.1 files. However if the fist number does not match the files will in some way not be interoperable.
+#### Single vs MMU
+Under each version there will be a Single and MMU folder. These refer to how many materials your printer can handle in a single print. I'm using a Prusa MK3S+ with MMU2S and printing Black/Gold/Red parts at the same time. So I use the MMU files. If you have something like an Ender 3 or Prusa MK3 without the MMU you'd use the Single files.
+#### Colors
+The colors used for this print will be refered to as Black, Gold and Red. The file names will reflect the color I print the parts in. In the case of MMU files where parts have multiple colors I'll include the colors used, but assigning them to individual parts will be left to the user.
+#### Sides
+In interest of simplicity (and avoiding messages) the left and right side of parts that require will be included and indicated in the file name.
+#### Sub-assemblies
+I tend to think of the parts in groups as sub-assemblies and the parts will be marked as such in their filenames. No, the sub-assembly name doesn't always make sense to everyone, sorry my sense of humor gets a little odd late at night. 
+#### Prusa Slicer
+If the files are ones that I currently use I'll include the Prusa Slicer project files with all of the settings and orientations I use when printing. More information about recomended orientation and support can be found below.
+
+
+
