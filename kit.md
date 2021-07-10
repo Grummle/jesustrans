@@ -31,7 +31,7 @@ Instructions have been provided as a series of videos. Recommended desupport/ass
 6. [Glueing](https://youtu.be/pwVUyt8b0pM)
 7. [Leg Armor](https://youtu.be/AQtdWT0uhmU)
 8. [Guns](https://youtu.be/A_jKnJNKVoA)
-9. Shoulder Pads
+9. [Shoulder Pads](https://youtu.be/-tpT5SAVCio)
 10. [Body](https://youtu.be/mx-L7SCjBHo) 
 11. Top Hat
 12. Final Assembly
