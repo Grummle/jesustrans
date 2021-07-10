@@ -7,7 +7,7 @@ The latest files/stl's for this will always start here. They may or may not make
 
 ## Links
 - [Files on Github](https://github.com/Grummle/jesustrans/tree/main/STL)
-- Files on Thingiverse
+- [Files on Thingiverse](https://www.thingiverse.com/thing:4868093)
 - Files on MyMiniFactory (if you are inclined to pay for them)
 
 ## File Layout
