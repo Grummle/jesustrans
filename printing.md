@@ -21,8 +21,23 @@ The colors used for this print will be refered to as Black, Gold and Red. The fi
 In interest of simplicity (and avoiding messages) the left and right side of parts that require will be included and indicated in the file name.
 #### Sub-assemblies
 I tend to think of the parts in groups as sub-assemblies and the parts will be marked as such in their filenames. No, the sub-assembly name doesn't always make sense to everyone, sorry my sense of humor gets a little odd late at night. 
+#### Support Material
+The file names will include one of the following to indicate the support material I typically print each part with
+- NS - No support material in the given orientation
+- BO - Bed only, overhangs are only over the bed.
+- EW - Ewww, supports everywhere. Have fun cleaning it off.
 #### Prusa Slicer
 If the files are ones that I currently use I'll include the Prusa Slicer project files with all of the settings and orientations I use when printing. More information about recomended orientation and support can be found below.
+
+## Orientation
+The files should be oriented for as I print them, combined with the information about support material in the file name you should be able to print successfully.
+#### Body
+The body parts are printed vertically because finish is better with no flat spots or dangly overhangs. This can make it challenging to print them without full supports. I'd recommend looking at my Prusa slicer project files to get ideas on how to print them vertically.
+#### So. much. support material
+Some of the parts are odd shapes and to be printed in an orientation that provides the best quality for the visible portions they use "support everywhere". If you think of a way around this let me know.
+#### Below are screen shots from my PrusaSlicer project files so that you can compare your orientation of parts.
+
+
 
 
 
