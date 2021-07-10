@@ -10,6 +10,19 @@ The latest files/stl's for this will always start here. They may or may not make
 - [Files on Thingiverse](https://www.thingiverse.com/thing:4868093)
 - [Files on MyMiniFactory](https://www.myminifactory.com/object/3d-print-jesus-mecha-christ-160001) (if you are inclined to pay for them)
 
+## Hardware
+- 46 x [M2x8](https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/18-8-stainless-steel-socket-head-screws-11/threading~fully-threaded/head-diameter~3-8mm/)
+- 5  x [M2x14](https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/18-8-stainless-steel-socket-head-screws-11/threading~fully-threaded/head-diameter~3-8mm/)
+- 4  x [M2x6](https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/18-8-stainless-steel-socket-head-screws-11/threading~fully-threaded/head-diameter~3-8mm/)
+- 2  x [M2x20](https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/18-8-stainless-steel-socket-head-screws-11/threading~fully-threaded/head-diameter~3-8mm/)
+- 8  x [Magnets 1/4x1/16x1/8 ](https://totalelement.com/products/1-16-x-1-8-inch-neodymium-rare-earth-cylinder-magnets-n48-250-pack)
+
+## Recomended Tools
+- Pokey, Proddy Tool or Pick 
+- Side Cutters
+- 1.5mm Allen Driver/Wrench
+- Needle Nose Pliers
+
 ## File Layout
 #### Versioning
 Files on Github will be in folders designating the version of the model. Example 1.0, 1.1, etc. Files starting with the same number should be interoperable with files also starting with the same number. Example 1.0 files will work with 1.1 files. However if the fist number does not match the files will in some way not be interoperable.
