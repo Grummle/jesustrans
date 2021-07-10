@@ -3,6 +3,12 @@ layout: jmcdefault
 title: "Kit Information"
 ---
 # Kit Information
+## Requred Tools
+- Pokey, Pointy Tool or Pick - [Example](https://www.amazon.com/Channellock-HP-4A-Coated-Acetate-Handle/dp/B00RMR1X82/ref=sr_1_15?dchild=1&keywords=pick&qid=1625950777&sr=8-15)
+- Needle Nose Pliers
+- Super Glue
+- Side Cutters (optional)
+- Accelerant (optional)
 
 ## Manifest
 - 46 x M2x8 Screws
