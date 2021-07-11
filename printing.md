@@ -23,6 +23,12 @@ The latest files/stl's for this will always start here. They may or may not make
 - 1.5mm Allen Driver/Wrench
 - Needle Nose Pliers
 
+## Build Info
+Build Videos available on the [Kit Information](/kit) page.
+
+## Transformation
+[Video](https://youtu.be/Td_CHTUhUsE)
+
 ## File Layout
 #### Versioning
 Files on Github will be in folders designating the version of the model. Example 1.0, 1.1, etc. Files starting with the same number should be interoperable with files also starting with the same number. Example 1.0 files will work with 1.1 files. However if the fist number does not match the files will in some way not be interoperable.
