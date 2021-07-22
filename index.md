@@ -37,3 +37,13 @@ github:
 ![IMG_2338 - Copy](https://user-images.githubusercontent.com/407186/125178406-03d65480-e1aa-11eb-8a36-87056e636326.jpg)
 ![IMG_2347 - Copy](https://user-images.githubusercontent.com/407186/125178408-03d65480-e1aa-11eb-9b9c-29caebad79af.jpg)
 ![IMG_2391 - Copy](https://user-images.githubusercontent.com/407186/125178409-046eeb00-e1aa-11eb-99de-49bb0f32faf7.jpg)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F1SR5FZP79"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F1SR5FZP79');
+</script>
