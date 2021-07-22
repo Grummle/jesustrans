@@ -38,3 +38,12 @@ Until I'm [forced](https://youtu.be/pb0PuaikL4w?t=28) to build another one this 
 11. (Optional) Cover cross/shield symbol in gold leaf. The images above one is gold leaf and the other is just gold printed filmanet. Choose wisely gold leaf is also a pita.
 12. Attach cross/shielf to the front of the box with super glue.
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F1SR5FZP79"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F1SR5FZP79');
+</script>
