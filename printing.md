@@ -44,7 +44,8 @@ I tend to think of the parts in groups as sub-assemblies and the parts will be m
 The file names will include one of the following to indicate the support material I typically print each part with
 - NS - No support material in the given orientation
 - BO - Bed only, overhangs are only over the bed.
-- EW - Ewww, supports everywhere. Have fun cleaning it off.
+- EW - Ewww, supports everywhere. Have fun cleaning it off. 
+
 #### Prusa Slicer
 If the files are ones that I currently use I'll include the Prusa Slicer project files with all of the settings and orientations I use when printing. More information about recomended orientation and support can be found below.
 
