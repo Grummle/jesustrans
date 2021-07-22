@@ -62,4 +62,12 @@ Some of the parts are odd shapes and to be printed in an orientation that provid
 
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F1SR5FZP79"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-F1SR5FZP79');
+</script>
