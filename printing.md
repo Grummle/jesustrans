@@ -49,6 +49,9 @@ The file names will include one of the following to indicate the support materia
 #### Prusa Slicer
 If the files are ones that I currently use I'll include the Prusa Slicer project files with all of the settings and orientations I use when printing. More information about recomended orientation and support can be found below.
 
+##### Detect Thin Walls
+Using Detect thin walls can cause problems (thanks [Jesse Schauer](https://www.thingiverse.com/jas6191/designs)), specifically with the helmet and guns rotator.
+
 ## Orientation
 The files should be oriented for as I print them, combined with the information about support material in the file name you should be able to print successfully.
 #### Body
