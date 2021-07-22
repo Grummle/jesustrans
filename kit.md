@@ -37,3 +37,13 @@ Instructions have been provided as a series of videos. Recommended desupport/ass
 11. [Top Hat](https://youtu.be/Sw8hfXGtbzc)
 12. [Final Assembly](https://youtu.be/FUIIY4x8DfQ)
 13. [Transformation](https://youtu.be/Td_CHTUhUsE)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F1SR5FZP79"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F1SR5FZP79');
+</script>
