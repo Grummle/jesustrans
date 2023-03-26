@@ -10,6 +10,11 @@ The latest files/stl's for this will always start here. They may or may not make
 - [Files on Thingiverse](https://www.thingiverse.com/thing:4868093)
 - [Files on MyMiniFactory](https://www.myminifactory.com/object/3d-print-jesus-mecha-christ-160001) (if you are inclined to pay for them)
 
+## Filament
+- [Basics 3D Bronze Gold](https://www.amazon.com/Basics-3D-Professional-Printer-Filament/dp/B08MQ7H76Z/ref=sr_1_3?crid=1PP2QY7DTHIAB&keywords=gold+basics+filament&qid=1679870752&sprefix=gold+basics+filamen%2Caps%2C92&sr=8-3)
+- [Prusament Galaxy Black PLA](https://www.prusa3d.com/product/prusament-pla-prusa-galaxy-black-1kg/)
+- [eSUN PLA Pro Fire Engine Red](https://www.amazon.com/eSUN-1-75mm-Printer-Filament-Pantone/dp/B07846LFNB/ref=sr_1_2?crid=2Y02FDLETYJBG&keywords=esun+fire+engine+red&qid=1679870898&sprefix=esun+fire+engine+red%2Caps%2C93&sr=8-2)
+
 ## Hardware
 - 46 x [M2x8](https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/18-8-stainless-steel-socket-head-screws-11/threading~fully-threaded/head-diameter~3-8mm/)
 - 5  x [M2x14](https://www.mcmaster.com/screws/socket-head-screws/socket-head-screws-6/18-8-stainless-steel-socket-head-screws-11/threading~fully-threaded/head-diameter~3-8mm/)
